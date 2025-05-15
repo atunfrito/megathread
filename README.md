@@ -1,7 +1,7 @@
 <h1 align="center">🚀 El MegaThread de AtunFrito</h1>
 
-<p align="center">Bienvenido a este megathread con recursos, herramientas y programas útiles para mejorar tu productividad y entretenimiento.  
-Todo probado y recomendado. ¡Disfruta! 👇</p>
+Bienvenido a este megathread con recursos, herramientas y programas útiles para mejorar tu productividad y entretenimiento.  
+Todo probado y recomendado. ¡Disfruta! 👇
 
 
 # Recursos y Recomendaciones
