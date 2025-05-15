@@ -7,7 +7,7 @@ Bienvenido a este megathread con recursos, herramientas y programas útiles para
 Todo probado y recomendado. ¡Disfruta! 👇
 
 
-# **Recursos y Recomendaciones**
+# Recursos y Recomendaciones
 
 Si tienes sugerencias o encuentras errores, no dudes en abrir una issue.
 
@@ -18,16 +18,26 @@ Los ítems con el icono 🐐 son mis favoritos y los GOATS de su categoría.
 
 ## Índice
 
-- [🧩 Extensiones de Navegador](#-extensiones-de-navegador)  
-- [🌐 Navegadores Web](#-navegadores-web)   
-- [🔑 Gestores de Contraseñas](#-gestores-de-contraseñas)    
-- [📥 Clientes Torrent](#-clientes-torrent)  
-- [🌐 Sitios Útiles](#-sitios-útiles)  
-- [🎮 Juegos](#-juegos-recomendados)  
-- [🎬 Películas y Series](#-películas-y-series)  
-- [⚙️ Programas Útiles para Windows](#️-programas-útiles-para-windows)  
-- [🤖 Inteligencia Artificial](#-inteligencia-artificial)  
-- [🛠 Programas Hechos por Mí](#-programas-hechos-por-mí)  
+- [🧩 Extensiones de Navegador](#-extensiones-de-navegador)
+  
+- [🌐 Navegadores Web](#-navegadores-web)
+   
+- [🔑 Gestores de Contraseñas](#-gestores-de-contraseñas)
+  
+- [📥 Clientes Torrent](#-clientes-torrent)
+  
+- [🌐 Sitios Útiles](#-sitios-útiles)
+  
+- [🎮 Juegos](#-juegos-recomendados)
+  
+- [🎬 Películas y Series](#-películas-y-series)
+  
+- [⚙️ Programas Útiles para Windows](#️-programas-útiles-para-windows)
+  
+- [🤖 Inteligencia Artificial](#-inteligencia-artificial)
+  
+- [🛠 Programas Hechos por Mí](#-programas-hechos-por-mí)
+  
 
 ---
 
@@ -36,19 +46,19 @@ Los ítems con el icono 🐐 son mis favoritos y los GOATS de su categoría.
 
 Extensiones para mejorar tu experiencia de navegación, desde bloquear anuncios hasta mejorar la privacidad y productividad.
 
-- [**uBlock Origin**](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) – Bloqueador de anuncios ligero y eficiente que reduce distracciones y acelera la carga.
+- [**uBlock Origin**](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 🐐 – Bloqueador de anuncios ligero y eficiente que reduce distracciones y acelera la carga.
 
 - [**AdGuard AdBlocker**](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) – Bloqueador de anuncios 
 
 - [**Bitwarden**](https://chromewebstore.google.com/detail/bitwarden-administrador-d/nngceckbapebfimnlniiiahkandclblb) – La versión extension del gestor de contraseñas Bitwarden
 
-- [**Guardar imagen como JPG/PNG/WebP**](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd) – Te permite guardar cualquier imagen como PNG, JPG o WebP
+- [**Guardar imagen como JPG/PNG/WebP**](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd) 🐐 – Te permite guardar cualquier imagen como PNG, JPG o WebP
 
 - [**ColorZilla**](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) – Selector de color
 
 - [**TempMail**](https://chromewebstore.google.com/detail/temp-mail-desechable-emai/inojafojbhdpnehkhhfjalgjjobnhomj) – La versión extension de la web de mails temporales (TempMail)
 
-- [**Todavía no me importan las cookies**](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm) – Extensión muy util para que ya no te pidan que acceptes la cookies
+- [**Todavía no me importan las cookies**](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm) 🐐 – Extensión muy util para que ya no te pidan que acceptes la cookies
 
 - [**WhatFont**](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - Extension para identificar fuentes en páginas web
 
@@ -108,7 +118,7 @@ Lista de juegos entretenidos, gratuitos o con buena relación calidad/precio.
 
 - [**STEAMRIP**](https://steamrip.com/) 🐐 – PC Games
   
-- [**NXbrew.net]**(https://nxbrew.net/) – SWITCH ROMS
+- [**NXbrew.net**](https://nxbrew.net/) 🐐 – SWITCH ROMS
 
 - [**SkidrowReloaded**](https://www.skidrowreloaded.com/) – PC Games
 
@@ -142,9 +152,9 @@ Para evitar anuncios molestos, necesitas un buen **adblock**, revisa la sección
 
 Programas que facilitan tareas comunes y mejoran la productividad.
 
-- [**Upscayl**](https://github.com/upscayl/upscayl) – Programa local para subir la calidad de tus imágenes
+- [**Upscayl**](https://github.com/upscayl/upscayl) 🐐 – Programa local para subir la calidad de tus imágenes
 
-- [**BCUninstaller**](https://www.bcuninstaller.com/) –  Aplicación para desinstalar programas y sus restos en Windows
+- [**BCUninstaller**](https://www.bcuninstaller.com/) 🐐 –  Aplicación para desinstalar programas y sus restos en Windows
 
 - [**Quick Share**](https://www.android.com/intl/es_es/better-together/quick-share-app/) – Envía y recibe fotos, documentos y más entre dispositivos Android y PCs Windows cercanos.
 
