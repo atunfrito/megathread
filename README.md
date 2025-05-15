@@ -1,4 +1,6 @@
-# 🚀 MegaThread Útil - Herramientas, Juegos, Programas y Más
+<p align="center">
+  <h1>🚀 MegaThread Útil - Herramientas, Juegos, Programas y Más</h1>
+</p>
 
 Bienvenido a este megathread con recursos, herramientas y programas útiles para mejorar tu productividad y entretenimiento.  
 Todo probado y recomendado. ¡Disfruta! 👇
@@ -33,179 +35,217 @@ Los ítems con el icono 🌟 son mis favoritos o top picks de cada categoría.
 <details>
 <summary>🧩 Extensiones de Navegador</summary>
 
-- [**uBlock Origin**](https://ublockorigin.com/) – Bloqueador de anuncios ligero y eficiente  
-- [**LastPass**](https://www.lastpass.com/) – Gestor de contraseñas seguro  
-- [**Dark Reader**](https://darkreader.org/) – Modo oscuro para cualquier web  
-- [**Grammarly**](https://www.grammarly.com/) – Corrector gramatical en inglés  
-- [**Pocket**](https://getpocket.com/) – Guarda artículos para leer después  
-- [**Privacy Badger**](https://privacybadger.org/) – Protección contra rastreadores  
-- [**Session Buddy**](https://sessionbuddy.com/) – Gestor de pestañas  
-- [**Vimium**](https://vimium.github.io/) – Navegación por teclado para Chrome/Firefox
+Extensiones para mejorar tu experiencia de navegación, desde bloquear anuncios hasta mejorar la privacidad y productividad.
+
+- [**uBlock Origin**](https://ublockorigin.com/) – Bloqueador de anuncios ligero y eficiente que reduce distracciones y acelera la carga.  
+- [**LastPass**](https://www.lastpass.com/) – Gestor de contraseñas seguro que guarda y genera claves fácilmente.  
+- [**Dark Reader**](https://darkreader.org/) – Aplica modo oscuro a cualquier página web para cuidar tus ojos.  
+- [**Grammarly**](https://www.grammarly.com/) – Corrector gramatical en inglés para mejorar tus textos.  
+- [**Pocket**](https://getpocket.com/) – Guarda artículos y vídeos para verlos después sin conexión.  
+- [**Privacy Badger**](https://privacybadger.org/) – Bloquea rastreadores invisibles y protege tu privacidad.  
+- [**Session Buddy**](https://sessionbuddy.com/) – Organiza y recupera tus pestañas de forma sencilla.  
+- [**Vimium**](https://vimium.github.io/) – Navegación por teclado para control total sin ratón.
 
 </details>
 
 <details>
 <summary>🌐 Navegadores Web</summary>
 
-- [**Firefox**](https://www.mozilla.org/firefox/) 🌟 – Rápido, ligero, enfocado en privacidad  
-- [**Tor Browser**](https://www.torproject.org/) 🌟 – Navegador para anonimato y evitar censura  
-- [**Brave**](https://brave.com/) – Chromium con bloqueador de anuncios incorporado  
-- [**Librewolf**](https://librewolf.net/) – Firefox sin rastreadores ni telemetría  
-- [**Zen Browser**](https://zen-browser.com/) – Fork de Firefox enfocado en privacidad y diseño
+Navegadores recomendados para diferentes necesidades: privacidad, velocidad o anonimato.
+
+- [**Firefox**](https://www.mozilla.org/firefox/) 🌟 – Rápido, personalizable y con enfoque fuerte en privacidad.  
+- [**Tor Browser**](https://www.torproject.org/) 🌟 – Navegador para anonimato y evitar censura usando la red Tor.  
+- [**Brave**](https://brave.com/) – Basado en Chromium, con bloqueador de anuncios integrado y recompensas.  
+- [**Librewolf**](https://librewolf.net/) – Firefox sin telemetría ni rastreadores, centrado en privacidad.  
+- [**Zen Browser**](https://zen-browser.com/) – Fork de Firefox con diseño minimalista y privacidad mejorada.
 
 </details>
 
 <details>
 <summary>🔒 Hardening de Navegadores</summary>
 
-- [**Arkenfox user.js**](https://github.com/arkenfox/user.js) – Configuración avanzada para privacidad y seguridad en Firefox  
-- [**BetterFox**](https://github.com/arkenfox/user.js/tree/master/docs/betterfox) – Optimización para Firefox enfocada en privacidad y velocidad  
+Configuraciones avanzadas para mejorar la seguridad y privacidad de tu navegador, recomendadas para usuarios avanzados.
 
-⚠️ Este nivel puede romper algunos sitios, úsalo solo si sabes lo que haces.
+- [**Arkenfox user.js**](https://github.com/arkenfox/user.js) – Script para ajustar Firefox al máximo nivel de privacidad y seguridad.  
+- [**BetterFox**](https://github.com/arkenfox/user.js/tree/master/docs/betterfox) – Optimización de Firefox que balancea privacidad y rendimiento.
+
+⚠️ Estas configuraciones pueden afectar el funcionamiento normal de algunas webs.
 
 </details>
 
 <details>
 <summary>🔑 Gestores de Contraseñas</summary>
 
-- [**Bitwarden**](https://bitwarden.com/) 🌟 – Gratis, seguro y multiplataforma  
-- [**KeePassXC**](https://keepassxc.org/) – Código abierto, ligero y potente  
-- [**LastPass**](https://www.lastpass.com/) – Popular y con buenas funcionalidades (aunque con controversias)
+Herramientas para guardar, generar y autocompletar contraseñas con seguridad.
+
+- [**Bitwarden**](https://bitwarden.com/) 🌟 – Código abierto, gratis, multiplataforma y muy seguro.  
+- [**KeePassXC**](https://keepassxc.org/) – Gestor local de contraseñas, sin conexión y muy personalizable.  
+- [**LastPass**](https://www.lastpass.com/) – Popular gestor con integración en navegadores y apps (ha tenido controversias).
 
 </details>
 
 <details>
 <summary>🔍 Motores de Búsqueda</summary>
 
-- [**SearXNG**](https://searxng.org/) 🌟 – Metabuscador privado y de código abierto  
-- [**DuckDuckGo**](https://duckduckgo.com/) – Privacidad aceptable, sin tracking  
-- [**Startpage**](https://www.startpage.com/) – Resultados Google sin tracking
+Motores para buscar información en la web cuidando tu privacidad y sin ser rastreado.
+
+- [**SearXNG**](https://searxng.org/) 🌟 – Metabuscador open source que combina resultados de varios motores sin tracking.  
+- [**DuckDuckGo**](https://duckduckgo.com/) – Popular motor de búsqueda centrado en privacidad.  
+- [**Startpage**](https://www.startpage.com/) – Usa resultados de Google sin que te rastreen.
 
 </details>
 
 <details>
 <summary>📧 Email Seguro</summary>
 
-- [**ProtonMail**](https://proton.me/mail) 🌟 – Encriptación end-to-end y privacidad suiza  
-- [**Tutanota**](https://tutanota.com/) – Encriptación sencilla, calendario incluido  
-- [**Mailfence**](https://mailfence.com/) – Encriptado, con firmas digitales y calendario
+Servicios de correo electrónico con cifrado y privacidad para proteger tus comunicaciones.
+
+- [**ProtonMail**](https://proton.me/mail) 🌟 – Email cifrado end-to-end con sede en Suiza.  
+- [**Tutanota**](https://tutanota.com/) – Correo seguro con calendario integrado y cifrado automático.  
+- [**Mailfence**](https://mailfence.com/) – Email con firma digital y cifrado, ideal para usuarios avanzados.
 
 </details>
 
 <details>
 <summary>📥 Clientes Torrent</summary>
 
-- [**qBittorrent**](https://www.qbittorrent.org/) 🌟 – Open source, sin anuncios, multiplataforma  
-- [**Transmission**](https://transmissionbt.com/) – Ligero y simple  
-- [**Deluge**](https://deluge-torrent.org/) – Plugins y personalización avanzada
+Programas para descargar archivos vía torrent de forma segura y eficiente.
+
+- [**qBittorrent**](https://www.qbittorrent.org/) 🌟 – Cliente open source, sin anuncios y fácil de usar.  
+- [**Transmission**](https://transmissionbt.com/) – Ligero y minimalista, ideal para usuarios sencillos.  
+- [**Deluge**](https://deluge-torrent.org/) – Potente y con plugins para personalización avanzada.
 
 </details>
 
 <details>
 <summary>🌐 Sitios Útiles</summary>
 
-- [**Lingva Translate**](https://lingva.ml/) – Frontend libre para Google Translate  
-- [**VirusTotal**](https://www.virustotal.com/) – Análisis de archivos y URLs sospechosas  
-- [**Kutt.it**](https://kutt.it/) – Acortador de URLs moderno y open source  
-- [**DownForEveryoneOrJustMe**](https://downforeveryoneorjustme.com/) – Comprueba si una web está caída
+Webs que ofrecen servicios prácticos para diferentes necesidades.
+
+- [**Lingva Translate**](https://lingva.ml/) – Alternativa libre a Google Translate sin tracking.  
+- [**VirusTotal**](https://www.virustotal.com/) – Analiza archivos y URLs sospechosas para detectar malware.  
+- [**Kutt.it**](https://kutt.it/) – Acortador de URLs moderno y open source.  
+- [**DownForEveryoneOrJustMe**](https://downforeveryoneorjustme.com/) – Comprueba si una web está caída para todos o solo para ti.
 
 </details>
 
 <details>
 <summary>💻 Sistemas Operativos</summary>
 
+Recomendaciones para elegir el sistema operativo adecuado según tus necesidades.
+
 <details>
 <summary>Windows</summary>
 
-- [**Windows LTSC**](https://learn.microsoft.com/en-us/windows/enterprise/quality-lifecycle/enterprise-ltsc) 🌟 – Versión estable y sin bloatware  
-- [**Chris Titus Tech WinUtil**](https://github.com/ChrisTitusTech/winutil) 🌟 – Herramienta para optimizar y limpiar Windows  
-- [**Simplewall**](https://github.com/henrypp/simplewall) 🌟 – Firewall simple y open source  
+- [**Windows LTSC**](https://learn.microsoft.com/en-us/windows/enterprise/quality-lifecycle/enterprise-ltsc) 🌟 – Versión estable de Windows sin bloatware ni actualizaciones molestas.  
+- [**Chris Titus Tech WinUtil**](https://github.com/ChrisTitusTech/winutil) 🌟 – Herramienta para limpiar y optimizar Windows fácilmente.  
+- [**Simplewall**](https://github.com/henrypp/simplewall) 🌟 – Firewall sencillo y open source para controlar conexiones.
 
-⚠️ Evita Windows para privacidad, usa Linux si puedes.
+⚠️ Para máxima privacidad, considera usar Linux.
 
 </details>
 
 <details>
 <summary>Linux</summary>
 
-- [**Debian**](https://www.debian.org/) 🌟 – Estable, base para muchas distros  
-- [**Linux Mint**](https://linuxmint.com/) 🌟 – Fácil para principiantes  
-- [**Arch Linux**](https://archlinux.org/) – Para usuarios avanzados, muy flexible  
-- [**Tails**](https://tails.boum.org/) – Sistema live para anonimato y seguridad  
-- [**Qubes OS**](https://www.qubes-os.org/) – Seguridad por compartimentación  
+- [**Debian**](https://www.debian.org/) 🌟 – Sistema operativo estable y base para muchas distribuciones.  
+- [**Linux Mint**](https://linuxmint.com/) 🌟 – Ideal para principiantes que quieren facilidad y estabilidad.  
+- [**Arch Linux**](https://archlinux.org/) – Para usuarios avanzados que desean un sistema flexible y a medida.  
+- [**Tails**](https://tails.boum.org/) – Sistema live enfocado en anonimato y seguridad.  
+- [**Qubes OS**](https://www.qubes-os.org/) – Seguridad por compartimentación usando máquinas virtuales.
 
 </details>
 
 <details>
 <summary>Móvil</summary>
 
-- [**GrapheneOS**](https://grapheneos.org/) 🌟 – Privacidad y seguridad para móviles  
-- [**CalyxOS**](https://calyxos.org/) – Android open source y seguro  
-- [**LineageOS**](https://lineageos.org/) – ROM alternativa para múltiples dispositivos  
+- [**GrapheneOS**](https://grapheneos.org/) – Sistema Android enfocado en privacidad y seguridad.
+
+CalyxOS – Android con mejoras de privacidad y código abierto.
+
+LineageOS – ROM Android libre y personalizable.
+
+</details> </details> <details> <summary>🎮 Juegos Recomendados</summary>
+Juegos para diferentes gustos, desde indie hasta AAA, con enfoque en calidad y comunidad.
+
+Celeste 🌟 – Plataformas con historia emocional y gran jugabilidad.
+
+Hades 🌟 – Roguelike de acción con narrativa y arte excepcionales.
+
+Hollow Knight – Metroidvania con exploración profunda y banda sonora memorable.
+
+Stardew Valley – Simulador de granja relajante y muy adictivo.
+
+Among Us – Multijugador para divertirte con amigos.
+
+</details> <details> <summary>🎬 Películas y Series</summary>
+Aquí algunos servicios y herramientas para disfrutar sin interrupciones.
+
+AdBlock – Extensión para bloquear anuncios en sitios de streaming y webs.
+
+Netflix – Plataforma líder en series y películas.
+
+Crunchyroll – Anime y series asiáticas con buena calidad.
+
+Plex – Organizador multimedia para tus películas y series locales.
+
+Popcorn Time – Streaming de películas mediante torrents.
 
 </details>
+<a name="adblock"></a>
+
+<details> <summary>🛡️ AdBlock</summary>
+AdBlock es una extensión que bloquea anuncios en casi cualquier sitio web, ideal para streaming, videos y navegación sin interrupciones molestas.
+Disponible para Chrome, Firefox, Edge y otros navegadores principales. Es fundamental para mejorar la experiencia en sitios con publicidad invasiva.
+
+uBlock Origin es una alternativa ligera y libre que recomiendo para bloquear anuncios.
+
+</details> <details> <summary>⚙️ Programas Útiles para Windows</summary>
+Programas para mejorar tu sistema, productividad y mantenimiento.
+
+Everything 🌟 – Buscador ultrarrápido de archivos.
+
+Greenshot – Capturas de pantalla fáciles y rápidas.
+
+WinDirStat – Visualiza el uso de espacio en disco.
+
+7-Zip – Compresor y descompresor gratuito y potente.
+
+Process Explorer – Monitor avanzado de procesos y recursos.
+
+ShareX – Captura y comparte pantalla, además de grabar.
+
+VLC Media Player – Reproductor multimedia compatible con casi todo.
+
+</details> <details> <summary>🤖 Inteligencia Artificial</summary>
+Herramientas de IA para tareas creativas y productividad.
+
+ChatGPT 🌟 – IA conversacional para ayudarte con ideas, textos y más.
+
+Stable Diffusion – Generación de imágenes a partir de texto.
+
+Runway ML – Plataforma de IA para video, imagen y audio.
+
+Whisper – Transcripción automática de audio.
+
+Descript – Editor de audio y video con IA.
+
+</details> <details> <summary>🛠 Programas Hechos por Mí</summary>
+Pequeñas utilidades y scripts que he desarrollado para facilitar tareas específicas.
+
+Generador de Contraseñas Seguras – Script en Python para crear claves fuertes y aleatorias.
+
+Automatizador de Descargas – Programa para organizar y descargar archivos automáticamente.
+
+Monitor de Estado del Sistema – Herramienta que muestra uso de CPU, RAM y disco en tiempo real.
+
+Puedes encontrar estos proyectos en mi repositorio o solicitar que los comparta.
 
 </details>
-
-<details>
-<summary>🎮 Juegos Recomendados</summary>
-
-- [**Hollow Knight**](https://hollowknight.com/) – Metroidvania hermoso y desafiante  
-- [**Celeste**](https://www.celestegame.com/) – Plataforma indie con gran historia  
-- [**Factorio**](https://factorio.com/) – Construcción y gestión de fábricas  
-- [**The Witcher 3**](https://thewitcher.com/en/witcher3) – RPG épico con narrativa profunda  
-- [**Stardew Valley**](https://www.stardewvalley.net/) – Simulador de granja relajante  
-
-</details>
-
-<details>
-<summary>🎬 Películas y Series</summary>
-
-- [**Dark**](https://www.netflix.com/title/80100172) – Serie alemana de misterio y viajes en el tiempo  
-- [**Black Mirror**](https://www.netflix.com/title/70264888) – Serie antológica sobre tecnología y sociedad  
-- [**Inception**](https://www.imdb.com/title/tt1375666/) – Película sobre sueños y realidad  
-- [**The Matrix**](https://www.imdb.com/title/tt0133093/) – Clásico de ciencia ficción y realidad virtual  
-- [**Blade Runner 2049**](https://www.imdb.com/title/tt1856101/) – Sci-fi visualmente impresionante  
-
-</details>
-
-<details>
-<summary>⚙️ Programas Útiles para Windows</summary>
-
-- [**7-Zip**](https://www.7-zip.org/) 🌟 – Compresión y descompresión de archivos  
-- [**Notepad++**](https://notepad-plus-plus.org/) – Editor de texto avanzado  
-- [**Greenshot**](https://getgreenshot.org/) – Capturas de pantalla rápidas  
-- [**ShareX**](https://getsharex.com/) – Captura, grabación y automatización  
-- [**Everything**](https://www.voidtools.com/) – Buscador de archivos ultrarrápido  
-
-</details>
-
-<details>
-<summary>🤖 Inteligencia Artificial</summary>
-
-- [**ChatGPT**](https://chat.openai.com/) – Asistente conversacional avanzado  
-- [**Stable Diffusion**](https://stability.ai/stable-diffusion) – Generación de imágenes por IA  
-- [**Hugging Face**](https://huggingface.co/) – Modelos de IA y comunidad open source  
-- [**Runway ML**](https://runwayml.com/) – Herramientas creativas con IA  
-
-</details>
-
-<details>
-<summary>🛠 Programas Hechos por Mí</summary>
-
-- [**Mi Gestor de Tareas**](https://github.com/DenisGabrielNuta/gestor-tareas) – App para organizar tareas diarias  
-- [**Script Automatización**](https://github.com/DenisGabrielNuta/script-automatizacion) – Scripts para tareas repetitivas en Windows  
-- [**Mini Juego JS**](https://github.com/DenisGabrielNuta/mini-juego) – Juego simple hecho en JavaScript  
-
-</details>
-
-<hr style="height:1px; border:none; background-color:#e1e4e8; margin:1em 0;" />
-
-## 📜 Licencia
-
-Este megathread está bajo la licencia [CC0 1.0 Universal (CC0 1.0)](./CC0-1.0.txt).  
+📜 Licencia
+Este megathread está bajo la licencia CC0 1.0 Universal (CC0 1.0).
 Puedes usar, modificar y distribuir libremente sin restricciones.
 
 <hr style="height:1px; border:none; background-color:#e1e4e8; margin:1em 0;" />
+Creado por AtunFrito
 
-*Creado por **AtunFrito***
