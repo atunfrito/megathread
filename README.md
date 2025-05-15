@@ -1,4 +1,4 @@
-#🚀 El MegaThread de AtunFrito
+##🚀 El MegaThread de AtunFrito
 
 Bienvenido a este megathread con recursos, herramientas y programas útiles para mejorar tu productividad y entretenimiento.  
 Todo probado y recomendado. ¡Disfruta! 👇
