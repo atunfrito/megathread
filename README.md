@@ -58,6 +58,8 @@ Extensiones para mejorar tu experiencia de navegación, desde bloquear anuncios 
 
 - [**WhatFont**](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - Extension para identificar fuentes en páginas web
 
+- [**Privacy Badger**](https://chromewebstore.google.com/detail/Privacy%20Badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - Bloquea rastreadores que intentan espiar tu historial de navegación y crear perfiles tuyos
+
 
 
 ## 🌐 Navegadores Web
@@ -120,7 +122,7 @@ Lista de juegos entretenidos, gratuitos o con buena relación calidad/precio.
 
 - [**PiviGames**](https://pivigames.blog/) – PC Games
 
-- [**Nintendo 3DS (Decrypted)**]([https://pivigames.blog/](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/)) – 3DS ROMS
+- [**Nintendo 3DS (Decrypted)**]([https://pivigames.blog/](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/) – 3DS ROMS
 
 Mucho cuidado con los botones de **Descarga FALSOS**, cuanto más bonito y a la vista sea, mas falso es.
 Al descargar en sitios así, necesitas un buen **adblock**, revisa la sección de [Extensiones de Navegador](#-extensiones-de-navegador).
