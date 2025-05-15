@@ -9,7 +9,7 @@ Si tienes sugerencias o encuentras errores, no dudes en abrir una issue.
 
 Los ítems con el icono 🌟 son mis favoritos o top picks de cada categoría.
 
---
+<hr style="height:1px; border:none; background-color:#e1e4e8; margin:1em 0;" />
 
 ## Tabla de Contenidos
 
@@ -28,7 +28,7 @@ Los ítems con el icono 🌟 son mis favoritos o top picks de cada categoría.
 - [🤖 Inteligencia Artificial](#-inteligencia-artificial)  
 - [🛠 Programas Hechos por Mí](#-programas-hechos-por-mí)  
 
---
+<hr style="height:1px; border:none; background-color:#e1e4e8; margin:1em 0;" />
 
 <details>
 <summary>🧩 Extensiones de Navegador</summary>
@@ -199,13 +199,13 @@ Los ítems con el icono 🌟 son mis favoritos o top picks de cada categoría.
 
 </details>
 
---
+<hr style="height:1px; border:none; background-color:#e1e4e8; margin:1em 0;" />
 
 ## 📜 Licencia
 
 Este megathread está bajo la licencia [CC0 1.0 Universal (CC0 1.0)](./CC0-1.0.txt).  
 Puedes usar, modificar y distribuir libremente sin restricciones.
 
---
+<hr style="height:1px; border:none; background-color:#e1e4e8; margin:1em 0;" />
 
 *Creado por **AtunFrito***
