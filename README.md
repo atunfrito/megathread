@@ -1,7 +1,4 @@
-
-<p align="center">
-  <h1>🚀 MegaThread Útil - Herramientas, Juegos, Programas y Más</h1>
-</p>
+<h1 align="center">🚀 El MegaThread de AtunFrito - Herramientas, Juegos, Programas y Más</h1>
 
 Bienvenido a este megathread con recursos, herramientas y programas útiles para mejorar tu productividad y entretenimiento.  
 Todo probado y recomendado. ¡Disfruta! 👇
@@ -13,7 +10,6 @@ Si tienes sugerencias o encuentras errores, no dudes en abrir una issue.
 
 Los ítems con el icono 🐐 son mis favoritos y los GOATS de su categoría.
 
----
 
 
 ## Índice
@@ -126,7 +122,7 @@ Lista de juegos entretenidos, gratuitos o con buena relación calidad/precio.
 
 - [**Nintendo 3DS (Decrypted)**]([https://pivigames.blog/](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/)) – 3DS ROMS
 
-Mucho cuidado con los botones de **Descarga** FALSOS, cuanto mas bonito y a la vista sea, mas falso es.
+Mucho cuidado con los botones de **Descarga FALSOS**, cuanto más bonito y a la vista sea, mas falso es.
 Al descargar en sitios así, necesitas un buen **adblock**, revisa la sección de [Extensiones de Navegador](#-extensiones-de-navegador).
 
 
@@ -188,5 +184,5 @@ Puedes usar, modificar y distribuir libremente sin restricciones.
 
 <hr style="height:1px; border:none; background-color:#e1e4e8; margin:1em 0;" />
 
-*Creado por [**AtunFrito**]*
+*Creado por **AtunFrito***
 
