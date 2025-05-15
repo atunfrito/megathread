@@ -1,4 +1,4 @@
-🚀 El MegaThread de AtunFrito
+#🚀 El MegaThread de AtunFrito
 
 Bienvenido a este megathread con recursos, herramientas y programas útiles para mejorar tu productividad y entretenimiento.  
 Todo probado y recomendado. ¡Disfruta! 👇
@@ -133,9 +133,9 @@ Películas y series recomendadas para diferentes gustos.
 
 - [**CUEVANA3**](https://cuevana3cc.co/) 🐐 – Hay muchas cuevanas replica que no sirven, pero esta merece la pena
 
-- [**SeriesFlix**](https://seriesflix.tel/) – Series (⚠️No hay pantalla completa)
+- [**SeriesFlix**](https://seriesflix.tel/) – Series (**⚠️No hay pantalla completa**)
 
-- [**PelisFlix**](https://pelisflix1.lat/) – Peliculas y Series (⚠️No hay pantalla completa)
+- [**PelisFlix**](https://pelisflix1.lat/) – Peliculas y Series (**⚠️No hay pantalla completa**)
 
 - [**Pelisplus**](https://pelisplus.in/) – Gran variedad de peliculas y series
 
