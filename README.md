@@ -108,9 +108,9 @@ Webs que ofrecen servicios prácticos para diferentes necesidades.
 
 
 
-## 🎮 Juegos 
+## 🎮 Juegos
 
-Lista de juegos entretenidos, gratuitos o con buena relación calidad/precio.
+Lista de paginas de juegos asequibles, gratuitos o con buena relación calidad/precio.
 
 - [**GamesFull**](https://gamesfull.app/) 🐐 – PC Games
 
@@ -154,6 +154,8 @@ Programas que facilitan tareas comunes y mejoran la productividad.
 
 - [**BCUninstaller**](https://www.bcuninstaller.com/) 🐐 –  Aplicación para desinstalar programas y sus restos en Windows
 
+- [**DropLoad**](https://github.com/Mayonesa7272/DropLoad/releases/tag/v1.0.0) - Programa para descargar en `.mp4` o en `.mp3` cualquier video de youtube
+
 - [**Quick Share**](https://www.android.com/intl/es_es/better-together/quick-share-app/) – Envía y recibe fotos, documentos y más entre dispositivos Android y PCs Windows cercanos.
 
 - [**QuickLook**](https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=es-ES&gl=ES) - Vista previa de videos, imágenes y documentos para no tener que abrir de uno en uno
@@ -164,7 +166,7 @@ Programas que facilitan tareas comunes y mejoran la productividad.
 
 Herramientas y modelos para explorar la inteligencia artificial.
 
-- **Stable Diffusion** – Generador de imágenes por IA.
+- [**Leonardo.AI**](https://app.leonardo.ai/image-generation/) – Generador de imágenes por IA.
 
 - **RunwayML** – Plataforma para crear contenido multimedia con IA.
 
