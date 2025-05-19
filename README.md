@@ -94,17 +94,19 @@ Programas para descargar archivos vía torrent de forma segura y eficiente.
 
 
 
-## 🌐 Sitios Útiles - PRÓXIMAMENTE
+## 🌐 Sitios Útiles
 
 Webs que ofrecen servicios prácticos para diferentes necesidades.
 
-- **Lingva Translate** – Alternativa libre a Google Translate sin tracking.
+- [**BgSub**](https://bgsub.com/webapp/) – Eliminar fondos de imágenes
 
-- **VirusTotal** – Analiza archivos y URLs sospechosas para detectar malware.
+- [**VirusTotal**](https://www.virustotal.com/gui/home/upload) – Analiza archivos y URLs sospechosas para detectar malware.
 
-- **Kutt.it** – Acortador de URLs moderno y open source.
+- [**Kutt.it**](https://kutt.it/) – Acortador de URLs moderno y open source.
 
-- **DownForEveryoneOrJustMe** – Comprueba si una web está caída para todos o solo para ti.
+- [**DownForEveryoneOrJustMe**](https://downforeveryoneorjustme.com/) – Comprueba si una web está caída para todos o solo para ti.
+
+- [**TvGarden**](https://tv.garden/) - Televisión de todo el mundo
 
 
 
