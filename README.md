@@ -174,10 +174,11 @@ Herramientas y modelos para explorar la inteligencia artificial.
 
 
 
-## 🛠 Programas Hechos por Mí - PRÓXIMAMENTE
+## 🛠 Programas Hechos por Mí 
 
 Proyectos personales para automatización y utilidad.
 
+- [**EncriptX**](https://github.com/atunfrito/encriptx) - Cifra y Descifra Texto de Forma Segura
 
 
 ---
