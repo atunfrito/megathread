@@ -60,6 +60,10 @@ Extensiones para mejorar tu experiencia de navegación, desde bloquear anuncios 
 
 - [**Privacy Badger**](https://chromewebstore.google.com/detail/Privacy%20Badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - Bloquea rastreadores que intentan espiar tu historial de navegación y crear perfiles tuyos
 
+- [**Free Download Manager**](https://chromewebstore.google.com/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?hl=es) - Te permite llevar automaticamente tus descargas a Free Download Manager que permite acelerar las descargas
+
+- [**Super PiP**](https://chromewebstore.google.com/detail/super-pip-picture-in-pict/jjjpjmbnbdjhbkclajpagjkefefnednl?hl=es) - Una de las mejores extensiones para mirar vídeos en modo Imagen en Imagen.
+
 
 
 ## 🌐 Navegadores Web
@@ -170,7 +174,7 @@ Programas que facilitan tareas comunes y mejoran la productividad.
 
 
 
-## 🤖 Inteligencia Artificial - PRÓXIMAMENTE
+## 🤖 Inteligencia Artificial
 
 Herramientas y modelos para explorar la inteligencia artificial.
 
