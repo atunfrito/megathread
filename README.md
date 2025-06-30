@@ -100,6 +100,8 @@ Webs que ofrecen servicios prácticos para diferentes necesidades.
 
 - [**BgSub**](https://bgsub.com/webapp/) – Eliminar fondos de imágenes
 
+- [**Iconify**](https://icon-sets.iconify.design/) – Gran variedad de iconos en formato html, png y más...
+
 - [**VirusTotal**](https://www.virustotal.com/gui/home/upload) – Analiza archivos y URLs sospechosas para detectar malware.
 
 - [**Kutt.it**](https://kutt.it/) – Acortador de URLs moderno y open source.
@@ -107,6 +109,8 @@ Webs que ofrecen servicios prácticos para diferentes necesidades.
 - [**DownForEveryoneOrJustMe**](https://downforeveryoneorjustme.com/) – Comprueba si una web está caída para todos o solo para ti.
 
 - [**TvGarden**](https://tv.garden/) - Televisión de todo el mundo
+
+- [**MCIcons**](https://mcicons.ccleaf.com/) - Iconos de minecraft
 
 
 
@@ -119,6 +123,8 @@ Lista de paginas de juegos asequibles, gratuitos o con buena relación calidad/p
 - [**STEAMRIP**](https://steamrip.com/) 🐐 – PC Games
   
 - [**NXbrew.net**](https://nxbrew.net/) 🐐 – SWITCH ROMS
+
+- [**EggNS Emulator**](https://eggnsemulator.com/nintendo-switch-roms/) 🐐 – SWITCH ROMS
 
 - [**SkidrowReloaded**](https://www.skidrowreloaded.com/) – PC Games
 
@@ -168,17 +174,30 @@ Programas que facilitan tareas comunes y mejoran la productividad.
 
 Herramientas y modelos para explorar la inteligencia artificial.
 
-- [**Leonardo.AI**](https://app.leonardo.ai/image-generation/) – Generador de imágenes por IA.
+- [**Leonardo.AI**](https://app.leonardo.ai/image-generation/) – Generador de imágenes
 
-- **RunwayML** – Plataforma para crear contenido multimedia con IA.
+- [**Perchance**](https://perchance.org/ai-text-to-image-generator) 🐐 – Generador de imágenes
 
+- [**RedPandaAI**](https://redpandaai.com/tools/ai-image-generator) – Generador de imágenes
+
+- [**SaferLayer**](https://saferlayer.com/) – Protege tus documentos con marcas de agua resistentes a la IA
+
+- [**Kickresume**](https://www.kickresume.com/en/) – Generador de curriculums
+
+- [**Markmap**](https://markmap.js.org/) – Generador de mapas mentales con markdown
+
+- [**Suno**](https://suno.com/home) – Generador de musica
+
+- [**HumbotAI**](https://humbot.ai/) – Humanizador de IA
+
+- [**AIFindy**](https://aifindy.com/) – Directorio de herramientas de IA
 
 
 ## 🛠 Programas Hechos por Mí 
 
 Proyectos personales para automatización y utilidad.
 
-- [**EncriptX**](https://github.com/atunfrito/encriptx) - Cifra y Descifra Texto de Forma Segura
+- [**EncriptX**](https://github.com/atunfrito/encriptx) - Cifra y descifra texto y archivos de forma Segura
 
 
 ---
